@@ -1,0 +1,19 @@
+.section-film{
+    display: flex;
+    padding: 0;
+    margin: 20px 10px;
+    
+}
+
+.section-film-poster{
+    width: 170px;
+}
+
+.section-film-description{
+    margin-left: 20px;
+}
+
+.section-film-star{
+    display: flex;
+    align-items: center;
+}
